@@ -14,7 +14,6 @@ Test the subsidy math using fake premiums
 Use actual North Carolina insurance dataset (clean-insurance-NC.csv) to find the benchmark premium and calculate subsidies
 
 Based on IRS Rev. Proc. 2025-25 rules, effective for 2026 plan-year coverage
-(enhanced ARPA/IRA subsidies expired end of 2025; original ACA cliff structure restored).
 
 """
 
