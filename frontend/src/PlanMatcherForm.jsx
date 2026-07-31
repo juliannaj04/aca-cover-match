@@ -63,8 +63,8 @@ export default function PlanMatcherForm() {
 
   return (
     <div className="matcher">
-      <h1>ACA Plan Matcher</h1>
-      <p className="subhead">Find and compare marketplace plans with your subsidy applied.</p>
+      <h1>NC Affordable Care Act Plan Matcher</h1>
+      <p className="subhead">A stress-free way to find and compare marketplace plans with your subsidy applied.</p>
 
       <div className="form-card">
         <form onSubmit={handleSubmit}>
