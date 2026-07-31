@@ -14,18 +14,6 @@ cd frontend
 npm install
 ```
 
-## Run
-
-```bash
-# terminal 1 (from project root)
-python3 app.py
-
-# terminal 2
-npm run dev --prefix frontend
-```
-
-Open the printed `localhost:5173` URL.
-
 ## Structure
 
 - `zip_lookup.py` — ZIP → county → CMS rating area
@@ -34,3 +22,7 @@ Open the printed `localhost:5173` URL.
 - `explain.py` — Claude-generated plain-English explanation of top plans
 - `app.py` — Flask API (`/match`, `/health`)
 - `frontend/` — React form + results UI
+
+<img width="1122" height="919" alt="Screenshot 2026-07-31 at 11 31 22 AM" src="https://github.com/user-attachments/assets/8d8360d0-f748-42c0-8ab7-d85457c5a73d" />
+<img width="1129" height="905" alt="Screenshot 2026-07-31 at 11 31 05 AM" src="https://github.com/user-attachments/assets/63db1788-63cc-4323-99a0-81ef660dfc53" />
+<img width="1117" height="602" alt="Screenshot 2026-07-31 at 11 30 50 AM" src="https://github.com/user-attachments/assets/875c948f-4963-439a-b064-4b5b63cf9534" />
