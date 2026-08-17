@@ -1,6 +1,6 @@
-# NC ACA Plan Matcher
+# NC PlanMatch
 
-Matches NC ACA marketplace plans to a household's income/ZIP/age, applies the premium tax credit, and generates a plain-English explanation of the top options via Claude.
+Matches NC Affordable Care Act marketplace plans to a household's income/ZIP/age, applies the premium tax credit, and generates a plain-English explanation of the top options via Claude.
 
 ## Setup
 
